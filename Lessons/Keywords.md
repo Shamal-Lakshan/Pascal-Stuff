@@ -1,6 +1,7 @@
 # Reserved words in Pascal
 
 - The reserved words in Pascal are defined in Pascal language. Hence, reserved words are **not** used as **identifiers**.
+- Reserved words are **different from language to language**. The following are reserved words in Pascal.
 
 | | | | |
 | :--- | :----------- | :----- | :---- |
