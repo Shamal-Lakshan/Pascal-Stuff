@@ -5,16 +5,16 @@
 | and | exports | mod | shr |
 | asm | file | nil | string |
 | array | for | not | then |
+| begin | function | object | to |
+| case | goto | of | type |
+| const | if | or | unit |
+| constructor | implementation | packed | until |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
-|  |  |  |  |
-
-
-
 
 
 <!-- 
