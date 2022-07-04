@@ -1,5 +1,7 @@
 # Reserved words in Pascal
 
+- The reserved words in Pascal are defined in Pascal language.
+
 | | | | |
 | :--- | :----------- | :----- | :---- |
 | and | exports | mod | shr |
@@ -9,16 +11,10 @@
 | case | goto | of | type |
 | const | if | or | unit |
 | constructor | implementation | packed | until |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| destructor | in | procedure | uses |
+| div | inherited | program | var |
+| do | inline | record | while |
+| downto | interface | repeat | with |
+| else | label | set | xor |
+| end | library | shl | ate |
 
-
-<!-- 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      | -->
